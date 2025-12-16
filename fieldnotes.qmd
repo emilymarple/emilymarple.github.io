@@ -1,5 +1,13 @@
 ---
 title: "Field Notes"
 format: html
+image: media/fieldpic.jpeg
+toc: false
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 25em
+
 ---
 
+Hi everyone! Get ready to hear updates from the field... the honest, real, nitty-gritty details. I will be uploading biweekly blogs with pics, reviews, and behind the scenes content
