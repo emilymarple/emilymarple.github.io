@@ -1,11 +1,19 @@
 ---
-title: "emilymarple.github.io"
+title: "Emily Marple"
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/emilymarple/
+    - text: GitHub
+      href: https://github.com/emilymarple
+    - text: Email
+      href: mailto:emilymeymarple@gmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+ Hi! I’m Emily (she/her).
+I am an early-career ecologist drawn to questions about how species interact and how those interactions shape ecological communities. My research interests are broad, ranging in ecosystems and study species. Think lakes, desert, birds, bees, butterflies, and now termites :) Outside of work, you can find me dancing, hiking, running, and learning how to play guitar. I love to move and create! 
+       
