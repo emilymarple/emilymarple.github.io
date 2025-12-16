@@ -3,8 +3,8 @@ title: "Emily Marple"
 image: media/headshot.jpeg
 toc: false
 about: 
-  template: trestles
-  image-shape: rectangle
+  template: jolla
+  image-shape: round
   image-width: 17em
   links:
     - text: LinkedIn
