@@ -5,7 +5,7 @@ toc: false
 about: 
   template: jolla
   image-shape: rectangle
-  image-width: 17em
+  image-width: 25em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/emilymarple/
