@@ -3,20 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "emilymarple.github.io"
+  title: "Emily Marple <3"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - fieldnotes.qmd
+  
 
 format:
   html:
     theme:
-      - cosmo
+      - pulse
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
