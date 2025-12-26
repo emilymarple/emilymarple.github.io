@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
     "text": "I am an early-career ecologist driven by questions about how species interact and how those interactions shape ecological communities. I graduated from Colorado College in May 2025 with distinction in Organismal Biology and Ecology, along with 2 minors in Environmental Studies and Race, Ethnicity, and Migration Studies. My positionality as a queer woman of color in STEM and through my academic background at the intersection of science and race studies, means I approach ecology with a deep awareness of how knowledge is shaped by who is included, heard, and supported. I believe that science, and the communities it serves, are strongest when informed by diverse lived experiences and perspectives, a value that guides both my research path and my commitment to collaborative, inclusive scientific spaces. I currently work in the tropics at the Smithsonian Tropical Research Institute (STRI) as a Global Sustainability Scholar and RaMP-UP Research Fellow. My research focuses on termite ecology and behavior, with an emphasis on predator–prey dynamics and how these relationships influence colony defense investments and carbon cycling."
   },
@@ -19,5 +19,19 @@
     "title": "Field Notes",
     "section": "",
     "text": "Hi everyone! Get ready to hear updates from the field… the honest, real, nitty-gritty details. I will be uploading biweekly blogs with pics, reviews, and behind the scenes content"
+  },
+  {
+    "objectID": "Field Notes.html",
+    "href": "Field Notes.html",
+    "title": "Field Notes",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "field-notes.html",
+    "href": "field-notes.html",
+    "title": "Field Notes",
+    "section": "",
+    "text": "No matching items"
   }
 ]
