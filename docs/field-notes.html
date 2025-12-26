@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -155,12 +155,11 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">fieldnotes.qmd</span>
-    </span>
+    <a class="nav-link active" href="./field-notes.html" aria-current="page"> 
+<span class="menu-text">Field Notes</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -175,7 +174,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z29hbHM=">goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGVyc29uYWw=">personal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d29yaw==">work <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -204,7 +203,40 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="d29yayUyQ3BlcnNvbmFsJTJDZ29hbHM=" data-listing-date-sort="1766725200000" data-listing-file-modified-sort="1766785653162" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="./posts/2025-12-26-first-blog/index.html" class="no-external">
 
+<img loading="lazy" src="./posts/2025-12-26-first-blog/climbing.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2025-12-26-first-blog/index.html" class="no-external">My New Year’s Resolution</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('d29yaw=='); return false;">work</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cGVyc29uYWw='); return false;">personal</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Z29hbHM='); return false;">goals</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/2025-12-26-first-blog/index.html" class="no-external">
+<p>Who said it has to be about self-improvement?</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/2025-12-26-first-blog/index.html" class="no-external">
+<div class="listing-date">
+Dec 26, 2025
+</div>
+<div class="listing-author">
+Emily Marple
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

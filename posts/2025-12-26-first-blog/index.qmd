@@ -1,0 +1,21 @@
+---
+title: "My New Year's Resolution"
+format: html
+description: "Who said it has to be about self-improvement?"
+author:
+  - name: Emily Marple
+    url: https://emilymarple.github.io/
+    orcid: 0000-0002-5300-3075
+    affiliation: RaMP-UP Fellow and GSS Scholar at the Smithsonian Tropical Research Institute
+date: 12-26-2025
+categories: [work, personal, goals]
+citation:
+  url: https://emilymarple.github.io/posts/2025-12-26-my-blog-post/
+image: climbing.jpeg
+draft: false
+---
+
+Actual blog incoming!! So exciting omg
+---
+
+---
