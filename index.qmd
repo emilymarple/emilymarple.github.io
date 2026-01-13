@@ -7,11 +7,14 @@ about:
   image-shape: rounded
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/emilymarple/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/emilymarple
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:emilymeymarple@gmail.com
 ---
  Hi! I’m Emily (she/her). 
