@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Emily Marple <3"
+  title: "Emily Marple {{< fa brands bluesky >}}"
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +16,7 @@ website:
 
 
 format:
-  html:
+  html: 
     theme:
       - pulse
       - brand
