@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Emily Marple {{< fa brands bluesky >}}"
+  favicon: media/favicon.png 
   navbar: 
     right:
       - href: index.qmd
