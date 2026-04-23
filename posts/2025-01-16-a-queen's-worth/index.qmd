@@ -1,6 +1,5 @@
 ---
 title: "How much is a queen worth?"
-format: html
 description: "An entomologist's dilemma"
 author:
   - name: Emily Marple 
@@ -10,9 +9,8 @@ author:
 date: 01-16-2026
 categories: [work, personal, goals]
 citation:
-    url: https://emilymarple.github.io/posts/2026-how-much-is-a-quuen-worth/
-image: climbing.jpeg
-draft: false
+  url: https://emilymarple.github.io/posts/2025-01/16-a-queen&#39;s-worth
+draft: true
 ---
 
 
@@ -50,8 +48,6 @@ Anyways, this is a slightly dramatic take on how I feel about my work. I will li
 
 With abundant love,
 Emily
-
-
 
 ---
 
