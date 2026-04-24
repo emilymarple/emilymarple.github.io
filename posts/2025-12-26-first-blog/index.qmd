@@ -8,7 +8,7 @@ author:
     orcid: 0009-0003-1651-7514
     affiliation: RaMP-UP Fellow and GSS Scholar at the Smithsonian Tropical Research Institute
 date: 01-16-2026
-categories: [work, personal, goals]
+categories: [work]
 citation:
     url: https://emilymarple.github.io/posts/2026-how-much-is-a-quuen-worth/
 draft: false
